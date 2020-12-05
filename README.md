@@ -1,0 +1,1 @@
+This is a django project tool that provides Lead Generation and bulk email sending to companies and organization. It provides news letter service and other lead generation services to companies and startups in their marketing strategy.
