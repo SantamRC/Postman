@@ -36,7 +36,7 @@ def send(args):
 
 args = {
     'from_addr' : 'sender',
-    'password' : 'password;,
+    'password' : 'password',
     'to_addr' : [],
     'cc_addr' : [],
     'bcc_addr' : [],
