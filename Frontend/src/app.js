@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      Hello World
+      Hello From the other side
     </div>
   );
 }
